@@ -7,6 +7,8 @@
 | Created:      Jul 05, 2020
 | Compilation:  make runoff
 | Execution:    ./runoff Alice Bob Charlie
+| Check50:      check50 cs50/problems/2020/x/runoff
+| Submit50:     submit50 cs50/problems/2020/x/runoff
 |
 | This program simulates a runoff vote election.
 |

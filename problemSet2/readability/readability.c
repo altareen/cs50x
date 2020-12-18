@@ -7,6 +7,8 @@
 | Created:      Jul 02, 2020
 | Compilation:  make readability
 | Execution:    ./readability
+| Check50:      check50 cs50/problems/2020/x/readability
+| Submit50:     submit50 cs50/problems/2020/x/readability
 |
 | This program determines the approximate grade level of a piece of text.
 |

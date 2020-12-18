@@ -7,6 +7,8 @@
 | Created:      Jul 03, 2020
 | Compilation:  make caesar
 | Execution:    ./caesar 20
+| Check50:      check50 cs50/problems/2020/x/caesar
+| Submit50:     submit50 cs50/problems/2020/x/caesar
 |
 | This program implements the caesar cipher encryption scheme.
 |

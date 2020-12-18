@@ -7,6 +7,8 @@
 | Created:      Jun 30, 2020
 | Compilation:  make mario
 | Execution:    ./mario
+| Check50:      check50 cs50/problems/2020/x/mario/more
+| Submit50:     submit50 cs50/problems/2020/x/mario/more
 |
 | This program creates a pyramid of hash marks.
 |

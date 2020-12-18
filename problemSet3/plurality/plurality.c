@@ -7,6 +7,8 @@
 | Created:      Jul 04, 2020
 | Compilation:  make plurality
 | Execution:    ./plurality Alice Bob Charlie
+| Check50:      check50 cs50/problems/2020/x/plurality
+| Submit50:     submit50 cs50/problems/2020/x/plurality
 |
 | This program simulates a plurality vote election.
 |

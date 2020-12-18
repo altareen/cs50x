@@ -7,6 +7,8 @@
 | Created:      Jun 29, 2020
 | Compilation:  make hello
 | Execution:    ./hello
+| Check50:      check50 cs50/problems/2020/x/hello
+| Submit50:     submit50 cs50/problems/2020/x/hello
 |
 | This program displays a simple greeting to the user.
 |

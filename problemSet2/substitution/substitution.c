@@ -7,6 +7,8 @@
 | Created:      Jul 03, 2020
 | Compilation:  make substitution
 | Execution:    ./substitution JTREKYAVOGDXPSNCUIZLFBMWHQ
+| Check50:      check50 cs50/problems/2020/x/substitution
+| Submit50:     submit50 cs50/problems/2020/x/substitution
 |
 | This program implements the substitution cipher encryption scheme.
 |

@@ -7,6 +7,8 @@
 | Created:      Jun 30, 2020
 | Compilation:  make credit
 | Execution:    ./credit
+| Check50:      check50 cs50/problems/2020/x/credit
+| Submit50:     submit50 cs50/problems/2020/x/credit
 |
 | This program checks if a credit card number is valid.
 |

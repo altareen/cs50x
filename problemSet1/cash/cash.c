@@ -7,6 +7,8 @@
 | Created:      Jun 29, 2020
 | Compilation:  make cash
 | Execution:    ./cash
+| Check50:      check50 cs50/problems/2020/x/cash
+| Submit50:     submit50 cs50/problems/2020/x/cash
 |
 | This program displays the minimium number of coins for a given amount.
 |
