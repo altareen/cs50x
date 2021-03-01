@@ -1,8 +1,0 @@
-Open a PostgreSQL terminal using the URI from Heroku's database credentials(Note that the URI credentials might change from what is listed below):
-
-$> psql postgres://gbikpejalmcyrt:9f9d6a177ad954eea2a8ebb351099a8b84edd9e792840026ea437b1255939ddf@ec2-34-192-58-41.compute-1.amazonaws.com:5432/d2tt215t11pfib
-
-Create the database tables and populate them with data by running the following sql script:
-
-psql> \i generatedatabase.sql
-

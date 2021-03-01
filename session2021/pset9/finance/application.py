@@ -5,7 +5,6 @@
 #
 # Author:       Alwin Tareen
 # Created:      Feb 18, 2021
-# Key:          export API_KEY=pk_4dc5324243b34780899328b236a357a1
 # Execution:    flask run
 # Check50:      check50 cs50/problems/2021/x/finance
 # Submit50:     submit50 cs50/problems/2021/x/finance
